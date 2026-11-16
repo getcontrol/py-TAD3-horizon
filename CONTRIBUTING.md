@@ -1,3 +1,5 @@
+Notice
+
 # Building Our Markets
 
 👏🏽 Thank you for your interest in contributing to TAD3. 🤝🏼 We appreciate your efforts to help improve our backend protocol layer. Please review the following guidelines to ensure a smooth and effective collaboration.
